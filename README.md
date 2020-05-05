@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to My First GitHub Page
 
-You can use the [editor on GitHub](https://github.com/Amy-Rose97/Hello-Amy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Amy Rose Martin, and I am currently a Dimension Data GAP2020 Trainee
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### More about myself, school and studies:
 
-### Markdown
+I am 22 years old, currently living in Johannesburg. I went to Brescia House school and I completed both my Undergradute degree and Honors in Marketing Management at the University of Pretoria. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects
 
-```markdown
-Syntax highlighted code block
+As a GAP2020 Trainee we are required to complete various rotations. Currently we have completed rotations with Dimension Data's Digital Advisory team, the Customer Experience team and the saes force of Dimension Data.
 
-# Header 1
-## Header 2
-### Header 3
+### Skills
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Amy-Rose97/Hello-Amy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I have a passion for marketing and helping people succeed through this. I believe you can never be too knowledgeable, and I am driven to continuously learn new skills.
